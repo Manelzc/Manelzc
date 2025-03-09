@@ -50,4 +50,4 @@
   </a>
 
 <h2> About me </h2>
-I am in my sixth year of Electrical Civil Engineering. Great interest in the area of ​​computational intelligence, especially in computer vision. Responsible, compliant and self-demanding, with well-developed soft skills. I plan for the future by developing technologies that improve society and help people, especially in the area of ​​medicine.
+I am a graduate from Electrical Engineering. Great interest in the area of ​​computational intelligence, especially in computer vision. Responsible, compliant and self-demanding, with well-developed soft skills. I plan for the future by developing technologies that improve society and help people, especially in the area of ​​medicine.
