@@ -11,7 +11,7 @@
   </a>   
    
 - 👋 Hi, I’m Manuel Zamorano (you can call me Manel)
-- 💼 I'm a Electrical Engineering Student at Universidad de Chile
+- 💼 I'm a Electrical Engineering Graduate from Universidad de Chile
 - 💬 I'm interested in machine learning and computer vision, specially in medical aplications
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
